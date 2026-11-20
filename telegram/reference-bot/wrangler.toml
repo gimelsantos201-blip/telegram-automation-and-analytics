@@ -1,0 +1,7 @@
+name = "checkin-bot-reference"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+
+[[kv_namespaces]]
+binding = "STATE"
+id = "<your-kv-namespace-id>"
